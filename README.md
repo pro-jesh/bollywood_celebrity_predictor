@@ -19,7 +19,7 @@ The dataset is taken from https://www.kaggle.com/datasets/sushilyadav1998/bollyw
      5. Extract the results
 
 ## Deployment:
-Streamlit is used to build a front-end of the web application for Indian Cricketer Classifier and is deployed on huggingface.co.
+Streamlit is used to build a front-end of the web application for Bollywood Celebrity Predictor.
 # Pictures of the demonstration are given below
 https://drive.google.com/file/d/1PMBc4Nodxpe4A3Gnp7yc3_Fr7T9_CW-b/view?usp=drive_link
 
